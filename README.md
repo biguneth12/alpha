@@ -29,7 +29,7 @@
    </a>
 </p>
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/biguneth12/Hashzi-X">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
